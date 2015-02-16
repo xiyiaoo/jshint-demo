@@ -1,0 +1,22 @@
+{
+  "name": "jshint-demo",
+  "version": "0.0.1",
+  "description": "a demo of use jshint",
+  "keywords": [
+    "jshint"
+  ],
+  "homepage": "https://github.com/xiyiaoo/jshint-demo",
+  "bugs": "https://github.com/xiyiaoo/jshint-demo/issues",
+  "author": {
+    "name": "null",
+    "email": "xiyiaoo@gmail.com",
+    "url": "https://github.com/xiyiaoo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiyiaoo/grunt-demo.git"
+  },
+  "devDependencies": {
+    "jshint": "~2.6"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "browser": true,
+  "bitwise": false,
+  "boss": true,
+  "curly": false,
+  "eqeqeq": true,
+  "immed": false,
+  "latedef": false,
+  "newcap": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": false,
+  "strict": true,
+  "sub": true,
+  "predef": [
+    "$",
+    "myFun"
+  ]
+}
